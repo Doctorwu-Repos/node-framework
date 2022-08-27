@@ -72,7 +72,7 @@
     "forceConsistentCasingInFileNames": true,        /* Disallow inconsistently-cased references to the same file. */
 
     "rootDirs": [ "src" ],
-    // "outDir": "dist",
+    "outDir": "lib",
     "declaration": true,
     "declarationDir": "typings",
     "composite": true

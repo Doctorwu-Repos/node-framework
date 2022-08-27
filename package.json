@@ -5,7 +5,7 @@
   "main": "dist/dt-node.umd.js",
   "typings": "typings",
   "scripts": {
-    "build": "rm -rf .rollup.cache && rm -rf dist && rollup --config"
+    "build": "rm -rf .rollup.cache && rm -rf dist && rollup --config && tsc"
   },
   "repository": {
     "type": "git",
